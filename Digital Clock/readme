@@ -1,0 +1,1 @@
+Created an active digital clock using C. Starting the program directs you to a screen that asks the user for a timer. Enter the timer and the timer will continue going, until stopped by the user. If the user exceeds 60 seconds, 60 minutes, 12 hours, it will prompt to an error.
